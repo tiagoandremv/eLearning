@@ -1,4 +1,4 @@
-##Regression
+## Regression
 - The process of predict a continuous value.
 
 **X**: independent / exploratory variable
@@ -17,7 +17,8 @@ Pros of Linear Regression:
 
 **RSE**: Relative Square Error
 
-##Logistic Regression
+
+## Logistic Regression
 - Classification algorithm for categorical variables.
 - Can be used for both binary and multi-class classification.
 
@@ -28,5 +29,5 @@ It is suitable ...
 - IF we need to understand the impact of a feature.
 
 
-##Gradient Descent
+## Gradient Descent
 - It is a technique to use the derivative of a cost function to change the parameter values, in order to minimize the cost.
