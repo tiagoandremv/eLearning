@@ -1,0 +1,3 @@
+Regression
+
+- The process of predict a continuous value.
